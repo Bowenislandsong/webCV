@@ -1,5 +1,5 @@
 
- ![Alt text](webCV.pdf?raw=true "Presume")
+[Resume](CV.pdf)
 
 
 
