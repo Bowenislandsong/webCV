@@ -1,0 +1,5 @@
+PWD /Users/bowensong/Downloads/Moderncv%20Banking
+INPUT /usr/local/texlive/2017basic/texmf.cnf
+INPUT /usr/local/texlive/2017basic/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2017basic/texmf-var/web2c/pdftex/pdflatex.fmt
+OUTPUT /Users/bowensong/Downloads/Moderncvmain.log
