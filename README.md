@@ -1,5 +1,5 @@
 
-[Resume](CV.pdf)
+[Resume](CV/CV.pdf)
 
 
 
