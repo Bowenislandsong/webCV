@@ -1,6 +1,5 @@
 
- ![Alt text](CV.pdf?raw=false "resume")
-
+[embed]CV.pdf/embed]
 
 
 This is a templated work from KeenThemes
