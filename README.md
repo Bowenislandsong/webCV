@@ -1,5 +1,5 @@
 
-[embed]https://github.com/Bowenislandsong/webCV/blob/master/CV.pdf[embed]
+[embed]https://github.com/Bowenislandsong/webCV/blob/master/CV.pdf[/embed]
 
 
 This is a templated work from KeenThemes
