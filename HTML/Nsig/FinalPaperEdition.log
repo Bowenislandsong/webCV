@@ -1,0 +1,2050 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.15)  14 JAN 2018 14:58
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**/Users/bowensong/Documents/GitHub/acecv/HTML/Nsig/FinalPaperEdition.tex
+(/Users/bowensong/Documents/GitHub/acecv/HTML/Nsig/FinalPaperEdition.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 22 language(s) loaded.
+(/Users/bowensong/Documents/GitHub/acecv/HTML/Nsig/IEEEtran.cls
+Document Class: IEEEtran 2012/11/21 V1.8c by Harald Hanche-Olsen and Anders Chr
+istensen
+-- Based on V1.7a by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 373.
+
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen104
+-- This is a 12 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen105
+\CLASSINFOnormalsizeunitybaselineskip=\dimen106
+\IEEEnormaljot=\dimen107
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <14> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <22> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <22> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 731.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 731.
+\IEEEilabelindentA=\dimen108
+\IEEEilabelindentB=\dimen109
+\IEEEilabelindent=\dimen110
+\IEEEelabelindent=\dimen111
+\IEEEdlabelindent=\dimen112
+\IEEElabelindent=\dimen113
+\IEEEiednormlabelsep=\dimen114
+\IEEEiedmathlabelsep=\dimen115
+\IEEEiedtopsep=\skip41
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@IEEEsubequation=\count85
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count86
+\c@table=\count87
+\@IEEEeqnnumcols=\count88
+\@IEEEeqncolcnt=\count89
+\@IEEEtmpitemindent=\dimen116
+\c@IEEEbiography=\count90
+\@IEEEtranrubishbin=\box26
+) (/usr/local/texlive/2017basic/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) (/usr/local/texlive/2017basic/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+) (/usr/local/texlive/2017basic/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+) (/usr/local/texlive/2017basic/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count91
+\Gm@cntv=\count92
+\c@Gm@tempcnt=\count93
+\Gm@bindingoffset=\dimen117
+\Gm@wd@mp=\dimen118
+\Gm@odd@mp=\dimen119
+\Gm@even@mp=\dimen120
+\Gm@layoutwidth=\dimen121
+\Gm@layoutheight=\dimen122
+\Gm@layouthoffset=\dimen123
+\Gm@layoutvoffset=\dimen124
+\Gm@dimlist=\toks16
+) (/usr/local/texlive/2017basic/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/local/texlive/2017basic/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+(/usr/local/texlive/2017basic/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+) (/usr/local/texlive/2017basic/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count94
+))
+\Gin@req@height=\dimen125
+\Gin@req@width=\dimen126
+) (/usr/local/texlive/2017basic/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen127
+\captionmargin@=\dimen128
+\captionwidth=\dimen129
+\caption@tempdima=\dimen130
+\caption@indent=\dimen131
+\caption@parindent=\dimen132
+\caption@hangindent=\dimen133
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->\ifx \@captype \@IEEEta
+blestring \footnotesize {\centering \normalfont \footnotesize #1.\qquad \scshap
+e #2\par }\@IEEEtablecaptionsepspace \else \@IEEEfigurecaptionsepspace \setbox 
+\@tempboxa \hbox {\normalfont \footnotesize {#1.}~~ #2}\ifdim \wd \@tempboxa >\
+hsize \setbox \@tempboxa \hbox {\normalfont \footnotesize {#1.}~~ }\parbox [t]{
+\hsize }{\normalfont \footnotesize \noindent \unhbox \@tempboxa #2}\else \ifCLA
+SSOPTIONconference \hbox to\hsize {\normalfont \footnotesize \box \@tempboxa \h
+fil }\else \hbox to\hsize {\normalfont \footnotesize \box \@tempboxa \hfil }\fi
+ \fi \fi .
+\c@ContinuedFloat=\count95
+)
+\c@subfigure=\count96
+\c@subtable=\count97
+) (/usr/local/texlive/2017basic/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+) (/usr/local/texlive/2017basic/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2016/04/27 v1.618033 publication quality tables
+\heavyrulewidth=\dimen134
+\lightrulewidth=\dimen135
+\cmidrulewidth=\dimen136
+\belowrulesep=\dimen137
+\belowbottomsep=\dimen138
+\aboverulesep=\dimen139
+\abovetopsep=\dimen140
+\cmidrulesep=\dimen141
+\cmidrulekern=\dimen142
+\defaultaddspace=\dimen143
+\@cmidla=\count98
+\@cmidlb=\count99
+\@aboverulesep=\dimen144
+\@belowrulesep=\dimen145
+\@thisruleclass=\count100
+\@lastruleclass=\count101
+\@thisrulewidth=\dimen146
+) (/Users/bowensong/Documents/GitHub/acecv/HTML/Nsig/FinalPaperEdition.aux)
+\openout1 = `FinalPaperEdition.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=591.5302pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=-0.93083pt
+* \headheight=12.0pt
+* \headsep=18.06749pt
+* \topskip=13.92pt
+* \footskip=28.90755pt
+* \marginparwidth=20.0pt
+* \marginparsep=10.0pt
+* \columnsep=18.0pt
+* \skip\footins=12.52791pt plus 5.5679pt minus 2.78395pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumntrue
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2017basic/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count102
+\scratchdimen=\dimen147
+\scratchbox=\box27
+\nofMPsegments=\count103
+\nofMParguments=\count104
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count105
+\MPscratchDim=\dimen148
+\MPnumerator=\count106
+\makeMPintoPDFobject=\count107
+\everyMPtoPDFconversion=\toks18
+) (/usr/local/texlive/2017basic/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+(/usr/local/texlive/2017basic/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (/usr/local/texlive/2017basic/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+(/usr/local/texlive/2017basic/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+)) (/usr/local/texlive/2017basic/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+(/usr/local/texlive/2017basic/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+(/usr/local/texlive/2017basic/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+(/Users/bowensong/Documents/GitHub/acecv/HTML/Nsig/FinalPaperEdition.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 5.
+
+Overfull \hbox (4.46074pt too wide) in paragraph at lines 10--10
+ [][] []\OT1/ptm/m/n/12 Matched 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+ \OT1/ptm/m/n/12 Tar-get 
+ []
+
+
+Overfull \hbox (5.14467pt too wide) in paragraph at lines 12--12
+ [][] []\OT1/ptm/m/n/12 Constant 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--12
+ \OT1/ptm/m/n/12 False 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--12
+ \OT1/ptm/m/n/12 Alarm 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+ \OT1/ptm/m/n/12 Over-lap Add - 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
+ [][] []\OT1/ptm/m/n/12 Time 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
+ \OT1/ptm/m/n/12 Com- 
+ []
+
+
+Overfull \hbox (0.94496pt too wide) in paragraph at lines 15--15
+ [][] []\OT1/ptm/m/n/12 Overlap 
+ []
+
+
+Overfull \hbox (23.57663pt too wide) in paragraph at lines 16--16
+ [][] []\OT1/ptm/m/n/12 Contribution 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+ [][] []\OT1/ptm/m/n/12 N-Signals 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--22
+ [][] []\OT1/ptm/m/n/12 TC-OLA 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--22
+ \OT1/ptm/m/n/12 En-hanced 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--22
+ \OT1/ptm/m/n/12 LFM Radar 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+ [][] []\OT1/ptm/m/n/12 N-Signal 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+ \OT1/ptm/m/n/12 En-hanced Radar 
+ []
+
+
+Underfull \hbox (badness 1400) in paragraph at lines 28--28
+[]\OT1/ptm/b/n/12 Appendix A: Prod-uct Spec-i-fi-ca- 
+ []
+
+
+Underfull \hbox (badness 1502) in paragraph at lines 30--30
+ [][] []\OT1/ptm/m/n/12 Time De-lay And 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
+ [][] []\OT1/ptm/m/n/12 Minimum 
+ []
+
+)
+\tf@toc=\write3
+\openout3 = `FinalPaperEdition.toc'.
+
+[1
+
+{/usr/local/texlive/2017basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (/
+Users/bowensong/Documents/GitHub/acecv/HTML/Nsig/FinalPaperEdition.lof
+Underfull \hbox (badness 6461) in paragraph at lines 2--2
+ \OT1/ptm/m/n/12 trans-mis-sion time stamp, 
+ []
+
+
+Underfull \hbox (badness 1584) in paragraph at lines 5--5
+ [][] []\OT1/ptm/m/n/12 Radar sys-tem flow graph 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--9
+ [][] []\OT1/ptm/m/n/12 Receiver matched sig-nal 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--12
+ [][] []\OT1/ptm/m/n/12 Nearby dome build-ing 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+ [][] []\OT1/ptm/m/n/12 Nearby smoke stack 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
+ [][] []\OT1/ptm/m/n/12 Comparing tra-di-tional 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
+ \OT1/ptm/m/n/12 (blue) with im-proved 
+ []
+
+
+Underfull \hbox (badness 4217) in paragraph at lines 15--15
+ \OT1/ptm/m/n/12 sult from LFM BW of 
+ []
+
+
+Underfull \hbox (badness 2435) in paragraph at lines 16--16
+ [][] []\OT1/ptm/m/n/12 N-signals tran-ceiv-ing sig- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+ [][] []\OT1/ptm/m/n/12 Extracted square sig-nal 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+ [][] []\OT1/ptm/m/n/12 signals sum-ma-tion with 
+ []
+
+
+Underfull \hbox (badness 6110) in paragraph at lines 21--21
+ \OT1/ptm/m/n/12 and their matched fil-ter 
+ []
+
+
+Underfull \hbox (badness 1975) in paragraph at lines 22--22
+ \OT1/ptm/m/n/12 re-la-tion with im-pulse re- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+ [][] []\OT1/ptm/m/n/12 signals sum-ma-tion with 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+ \OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 5\OML/cmm/m/it/12 us$ \OT1/
+ptm/m/n/12 (left) and $\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 1\OML
+/cmm/m/it/12 us$ 
+ []
+
+
+Underfull \hbox (badness 6110) in paragraph at lines 23--23
+ \OT1/ptm/m/n/12 and their matched fil-ter 
+ []
+
+)
+\tf@lof=\write4
+\openout4 = `FinalPaperEdition.lof'.
+
+[2
+
+]
+Underfull \hbox (badness 1472) in paragraph at lines 120--121
+\OT1/ptm/m/n/12 com-puter. The fore-see-able ap-pli-ca-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
+
+ []
+
+
+Underfull \hbox (badness 6658) in paragraph at lines 122--123
+\OT1/ptm/m/n/12 and ob-ject speed by the Matched
+ []
+
+
+Underfull \hbox (badness 4366) in paragraph at lines 122--123
+\OT1/ptm/m/n/12 Fil-ter and Mov-ing Tar-get De-tec-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+\OT1/ptm/m/n/12 al-go-rithms re-spec-tively. The main
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+\OT1/ptm/m/n/12 dif-fer-ence be-tween our Radar and
+ []
+
+
+Underfull \hbox (badness 2744) in paragraph at lines 122--123
+\OT1/ptm/m/n/12 mar-ket avail-able LFM Radar is the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+
+ []
+
+[3
+
+
+]
+Underfull \hbox (badness 4429) in paragraph at lines 136--137
+\OT1/ptm/m/n/12 wave-forms pro-duces lin-ear
+ []
+
+
+Underfull \hbox (badness 3907) in paragraph at lines 136--137
+\OT1/ptm/m/n/12 chirp sig-nal that the fre-
+ []
+
+
+Underfull \hbox (badness 2735) in paragraph at lines 139--140
+[]\OT1/ptm/m/n/12 An object-detection sys-tem
+ []
+
+
+Underfull \hbox (badness 4779) in paragraph at lines 140--141
+[]\OT1/ptm/m/n/12 An ab-bre-vi-a-tion in sig-nal
+ []
+
+
+LaTeX Warning: Citation `sdr' on page 4 undefined on input line 141.
+
+
+Underfull \hbox (badness 1478) in paragraph at lines 141--142
+\OT1/ptm/m/n/12 been typ-i-cally im-ple-mented
+ []
+
+
+Underfull \hbox (badness 4779) in paragraph at lines 143--144
+[]\OT1/ptm/m/n/12 An ab-bre-vi-a-tion in sig-nal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
+[]\OT1/ptm/m/n/12 Unmanned aerial ve-hi-cle
+ []
+
+
+LaTeX Warning: Citation `usrp' on page 4 undefined on input line 145.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+[]\OT1/ptm/m/n/12 Universal Soft-ware Ra-dio
+ []
+
+
+Underfull \hbox (badness 6173) in paragraph at lines 145--146
+\OT1/ptm/m/n/12 Pe-riph-eral is a range of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+\OT1/ptm/m/n/12 software-defined ra-dios
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+\OT1/ptm/m/n/12 from Et-tus Re-search to
+ []
+
+[4
+
+]
+Underfull \hbox (badness 5288) in paragraph at lines 156--157
+[]\OT1/ptm/m/n/12 Software de-fined ra-dio has been
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
+
+ []
+
+
+Underfull \hbox (badness 5345) in paragraph at lines 158--159
+\OT1/ptm/m/n/12 as soft-ware so-lu-tion, ap-pli-ca-ble for
+ []
+
+
+Underfull \hbox (badness 2735) in paragraph at lines 158--159
+\OT1/ptm/m/n/12 va-ri-ety of pur-poses. The prod-uct is
+ []
+
+
+Underfull \hbox (badness 1424) in paragraph at lines 158--159
+\OT1/ptm/m/n/12 com-pat-i-ble with most SDR hard-ware
+ []
+
+
+Underfull \hbox (badness 6910) in paragraph at lines 158--159
+\OT1/ptm/m/n/12 on the mar-ket. De-pend-ing on the
+ []
+
+
+Underfull \hbox (badness 6063) in paragraph at lines 158--159
+\OT1/ptm/m/n/12 rec-om-mended. Gen-er-ally the sys-tem
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
+
+ []
+
+
+Underfull \hbox (badness 2680) in paragraph at lines 160--161
+\OT1/ptm/m/n/12 reg-u-la-tion and en-force-ment for such
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
+
+ []
+
+
+LaTeX Warning: Citation `noauthor_uk_2016' on page 1 undefined on input line 16
+2.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
+[]\OT1/ptm/m/n/12 A per-fect ex-am-ple comes from
+ []
+
+
+Underfull \hbox (badness 3701) in paragraph at lines 162--163
+\OT1/ptm/m/n/12 crim-i-nals ex-pands drone de-liv-ery to
+ []
+
+
+Underfull \hbox (badness 5787) in paragraph at lines 162--163
+\OT1/ptm/m/n/12 an-nounce-ment ad-dress-ing these type
+ []
+
+
+Underfull \hbox (badness 2671) in paragraph at lines 162--163
+\OT1/ptm/m/n/12 of crises such as the UK Min-istry
+ []
+
+
+Underfull \hbox (badness 5681) in paragraph at lines 162--163
+\OT1/ptm/m/n/12 of Justice[[]]. The cur-rent so-lu-tions
+ []
+
+
+Underfull \hbox (badness 7796) in paragraph at lines 162--163
+\OT1/ptm/m/n/12 no-fly zone pro-gram in-side UAVs;
+ []
+
+
+Underfull \hbox (badness 1584) in paragraph at lines 162--163
+\OT1/ptm/m/n/12 pris-ons with af-ford-able UAV Radars,
+ []
+
+
+Underfull \hbox (badness 3375) in paragraph at lines 162--163
+\OT1/ptm/m/n/12 ob-jects. The so-lu-tion is ef-fi-cient at
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
+
+ []
+
+
+LaTeX Warning: Citation `gipson_nasa_2017' on page 1 undefined on input line 17
+0.
+
+[1
+
+] [2]
+
+LaTeX Warning: File `LFMcomp.png' not found on input line 198.
+
+
+! Package pdftex.def Error: File `LFMcomp.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.198 ...aphics[width=0.5\textwidth]{LFMcomp.png}}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 198.
+
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Overfull \hbox (9.0pt too wide) in paragraph at lines 198--199
+ [][] 
+ []
+
+! Undefined control sequence.
+l.202 \FloatBarrier
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 2142) in paragraph at lines 196--203
+\OT1/ptm/m/n/12 ob-ject mov-ing; as the ob-ject moves
+ []
+
+
+Underfull \hbox (badness 1715) in paragraph at lines 196--203
+\OT1/ptm/m/n/12 tem flow graph shown in Fig-ure 1[].
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: File `mfex.png' not found on input line 206.
+
+
+! Package pdftex.def Error: File `mfex.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.206 ...ludegraphics[width=\textwidth]{mfex.png}}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (218.12685pt too wide) in paragraph at lines 206--207
+ [][] 
+ []
+
+
+Underfull \hbox (badness 1484) in paragraph at lines 207--207
+\OT1/ptm/m/n/12 0.01 s de-lay from trans-mis-sion time
+ []
+
+! Undefined control sequence.
+l.210 \FloatBarrier
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 3271) in paragraph at lines 204--211
+ []\OT1/ptm/m/it/12 Matched Fil-ter: [][] \OT1/ptm/m/n/12 Matched Fil-ter
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 6859) has occurred while \output is active []
+
+[3]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+LaTeX Warning: File `th.png' not found on input line 217.
+
+
+! Package pdftex.def Error: File `th.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.217 ...udegraphics[width=0.5\textwidth]{th.png}}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `lowth.png' not found on input line 218.
+
+
+! Package pdftex.def Error: File `lowth.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.218 ...graphics[width=0.5\textwidth]{lowth.png}}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (9.0pt too wide) in paragraph at lines 217--219
+[]
+ []
+
+
+Overfull \hbox (9.0pt too wide) in paragraph at lines 217--219
+[] 
+ []
+
+! Undefined control sequence.
+l.222 \FloatBarrier
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 1466) in paragraph at lines 226--226
+ []\OT1/ptm/m/it/12 Time Com-pres-sion Over-lap Add -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
+
+ []
+
+
+Underfull \hbox (badness 3189) in paragraph at lines 229--230
+\OT1/ptm/m/n/12 this mod-ule to our de-sign we can
+ []
+
+
+Underfull \hbox (badness 2253) in paragraph at lines 229--230
+\OT1/ptm/m/n/12 sig-nal with re-dun-dan-cies. By adding
+ []
+
+
+Underfull \hbox (badness 5939) in paragraph at lines 229--230
+\OT1/ptm/m/n/12 this sig-nal back to-gether with the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
+
+ []
+
+[4]
+
+LaTeX Warning: File `tcoladis.png' not found on input line 233.
+
+
+! Package pdftex.def Error: File `tcoladis.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.233 ...\textwidth,height = 4.1cm]{tcoladis.png}}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (9.01237pt too wide) in paragraph at lines 233--234
+ [][] 
+ []
+
+
+LaTeX Warning: File `tcolaflowg.png' not found on input line 238.
+
+
+! Package pdftex.def Error: File `tcolaflowg.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.238 ...ics[width=0.5\textwidth]{tcolaflowg.png}}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (9.0pt too wide) in paragraph at lines 238--239
+ [][] 
+ []
+
+! Undefined control sequence.
+l.242 \FloatBarrier
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5]
+
+! LaTeX Error: File `nsigfg' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.255 ...udegraphics[width=0.5\textwidth]{nsigfg}}
+                                                  
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `nsig1' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.262 ...udegraphics[width=0.33\textwidth]{nsig1}}
+                                                  
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `nsiginter' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.263 ...raphics[width=0.33\textwidth]{nsiginter}}
+                                                  
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `nsig2' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.264 ...udegraphics[width=0.33\textwidth]{nsig2}}
+                                                  
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.268 \FloatBarrier
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[6]
+
+! LaTeX Error: File `cableex' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.277 ...degraphics[width=0.5\textwidth]{cableex}}
+                                                  
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (78.29402pt too wide) detected at line 281
+\OML/cmm/m/it/12 P[] \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 33\O
+ML/cmm/m/it/12 dB \OMS/cmsy/m/n/12 ^^@ \OT1/cmr/m/n/12 3\OML/cmm/m/it/12 dB \OM
+S/cmsy/m/n/12 ^^@ \OT1/cmr/m/n/12 3\OML/cmm/m/it/12 dB \OMS/cmsy/m/n/12 ^^@ \OT
+1/cmr/m/n/12 1\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 5\OML/cmm/m/it/12 dB \OT1/cmr/m
+/n/12 = \OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 40\OML/cmm/m/it/12 :\OT1/cmr/m/n/12
+ 5\OML/cmm/m/it/12 dB
+ []
+
+
+Overfull \hbox (67.91763pt too wide) detected at line 282
+\OML/cmm/m/it/12 P[] \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 33\O
+ML/cmm/m/it/12 dB \OMS/cmsy/m/n/12 ^^@ \OT1/cmr/m/n/12 3\OML/cmm/m/it/12 dB \OM
+S/cmsy/m/n/12 ^^@ \OT1/cmr/m/n/12 3\OML/cmm/m/it/12 dB \OMS/cmsy/m/n/12 ^^@ \OT
+1/cmr/m/n/12 77\OML/cmm/m/it/12 dB \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12 ^^@\OT1/c
+mr/m/n/12 116\OML/cmm/m/it/12 dB
+ []
+
+
+! LaTeX Error: File `one' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.286 ...ncludegraphics[width=0.5\textwidth]{one}}
+                                                  
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `ms80' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.287 ...cludegraphics[width=0.5\textwidth]{ms80}}
+                                                  
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (100.29083pt too wide) detected at line 292
+\OML/cmm/m/it/12 CableLength \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 VF \OMS/cmsy/m/
+n/12 ^^C \OML/cmm/m/it/12 c \OMS/cmsy/m/n/12 ^^C \OML/cmm/m/it/12 time \OT1/cmr
+/m/n/12 = 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 81 \OMS/cmsy/m/n/12 ^^C \OT1/cmr/m
+/n/12 3\OML/cmm/m/it/12 e\OT1/cmr/m/n/12 8 \OMS/cmsy/m/n/12 ^^C \OT1/cmr/m/n/12
+ 1\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 25\OML/cmm/m/it/12 us \OT1/cmr/m/n/12 = 303
+\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 75\OML/cmm/m/it/12 m
+ []
+
+
+! LaTeX Error: File `towerex' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.296 ...cludegraphics[width=\textwidth]{towerex}}
+                                                  
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (260.7262pt too wide) detected at line 302
+\OML/cmm/m/it/12 P[] \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 33\O
+ML/cmm/m/it/12 dB \OMS/cmsy/m/n/12 ^^@ \OT1/cmr/m/n/12 1\OML/cmm/m/it/12 :\OT1/
+cmr/m/n/12 5\OML/cmm/m/it/12 dB \OT1/cmr/m/n/12 + 16\OML/cmm/m/it/12 dB \OMS/cm
+sy/m/n/12 ^^@ \OT1/cmr/m/n/12 147\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 55\OML/cmm/m
+/it/12 dB \OT1/cmr/m/n/12 + 20\OML/cmm/m/it/12 log\OT1/cmr/m/n/12 (200\OML/cmm/
+m/it/12 m\OT1/cmr/m/n/12 ) + 20\OML/cmm/m/it/12 log\OT1/cmr/m/n/12 900 + 16\OML
+/cmm/m/it/12 dB \OMS/cmsy/m/n/12 ^^@ \OT1/cmr/m/n/12 1\OML/cmm/m/it/12 :\OT1/cm
+r/m/n/12 5\OML/cmm/m/it/12 dB \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/
+n/12 46\OML/cmm/m/it/12 dB:
+ []
+
+
+! LaTeX Error: File `gnufgsimp' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.310 ...graphics[width=0.5\textwidth]{gnufgsimp}}
+                                                  
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 1412) in paragraph at lines 311--311
+[]\OT1/ptm/m/n/12 Fig. 11: |gen-eral view of GNU-Ra-dio
+ []
+
+
+Underfull \hbox (badness 1590) in paragraph at lines 307--314
+\OT1/ptm/m/n/12 ca-pa-bil-ity in-ter-fac-ing with the USRP
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 326--329
+[]\OT1/ptm/m/n/12 The ex-per-i-ment was a suc-cess,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--329
+\OT1/ptm/m/n/12 ac-cu-rately com-put-ing dis-tances to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--329
+
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 326--329
+\OT1/ptm/m/n/12 Figure 12[] (left) shows the dis-tance
+ []
+
+
+Underfull \hbox (badness 1484) in paragraph at lines 326--329
+\OT1/ptm/m/n/12 Radar pulses. The dis-tance mea-sured
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--329
+
+ []
+
+
+! LaTeX Error: File `domegoogle' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.334 }
+       
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `domenear' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.334 }
+       
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.338 \FloatBarrier
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: File `midtowergoogle' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.345 }
+       
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `roof200mnear' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.345 }
+       
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.349 \FloatBarrier
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: File `Compare.png' not found on input line 353.
+
+
+! Package pdftex.def Error: File `Compare.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.353 ...aphics[width=0.5\textwidth]{Compare.png}}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (9.0pt too wide) in paragraph at lines 353--354
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+! Undefined control sequence.
+l.359 \FloatBarrier
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[8]
+Underfull \hbox (badness 1769) in paragraph at lines 360--360
+ []\OT1/ptm/m/it/12 N-Signal En-hanced Radar Ex-per-i-
+ []
+
+
+Underfull \hbox (badness 2478) in paragraph at lines 361--362
+\OT1/ptm/m/n/12 wave-forms. The unique com-bi-na-tions
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 361--362
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 363--364
+\OT1/ptm/m/n/12 and in-creases jam-ming dif-fi-cul-ties.
+ []
+
+
+Underfull \hbox (badness 1769) in paragraph at lines 363--364
+\OT1/ptm/m/n/12 the matched fil-ter. This is pre-sented
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 363--364
+
+ []
+
+
+LaTeX Warning: File `txrxlfmb2ext1.png' not found on input line 366.
+
+
+! Package pdftex.def Error: File `txrxlfmb2ext1.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.366 ...[width=0.5\textwidth]{txrxlfmb2ext1.png}}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `txrxlfmb1ext2.png' not found on input line 367.
+
+
+! Package pdftex.def Error: File `txrxlfmb1ext2.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.367 ...[width=0.5\textwidth]{txrxlfmb1ext2.png}}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `LFMnsigwin3.png' not found on input line 368.
+
+
+! Package pdftex.def Error: File `LFMnsigwin3.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.368 ...5\textwidth,height=3cm]{LFMnsigwin3.png}}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `closewinb2ex1.png' not found on input line 369.
+
+
+! Package pdftex.def Error: File `closewinb2ex1.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.369 ...textwidth,height=3cm]{closewinb2ex1.png}}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (9.0pt too wide) in paragraph at lines 366--370
+[]
+ []
+
+
+Overfull \hbox (9.0pt too wide) in paragraph at lines 366--370
+[]
+ []
+
+
+Overfull \hbox (9.01237pt too wide) in paragraph at lines 366--370
+[]
+ []
+
+
+Overfull \hbox (9.01237pt too wide) in paragraph at lines 366--370
+[] 
+ []
+
+
+LaTeX Warning: Float too large for page by 58.72202pt on input line 372.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+! Undefined control sequence.
+l.373 \FloatBarrier
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: File `lfmnp41.png' not found on input line 378.
+
+
+! Package pdftex.def Error: File `lfmnp41.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.378 ...phics[width=0.4\textwidth]{lfmnp42.png}}}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `lfmnp42.png' not found on input line 378.
+
+
+! Package pdftex.def Error: File `lfmnp42.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.378 ...phics[width=0.4\textwidth]{lfmnp42.png}}}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (142.87112pt too wide) in paragraph at lines 376--379
+ [][] 
+ []
+
+
+LaTeX Warning: File `p4nsig.png' not found on input line 383.
+
+
+! Package pdftex.def Error: File `p4nsig.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.383 ...th=0.5\textwidth,height=3cm]{p4nsig.png}}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `lfmnsiglfmnsq.png' not found on input line 384.
+
+
+! Package pdftex.def Error: File `lfmnsiglfmnsq.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.384 ...textwidth,height=3cm]{lfmnsiglfmnsq.png}}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (9.01237pt too wide) in paragraph at lines 383--385
+[]
+ []
+
+
+Overfull \hbox (9.01237pt too wide) in paragraph at lines 383--385
+[] 
+ []
+
+! Undefined control sequence.
+l.388 \FloatBarrier
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: File `sqrx.png' not found on input line 391.
+
+
+! Package pdftex.def Error: File `sqrx.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.391 ...egraphics[width=0.5\textwidth]{sqrx.png}}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `sqsim.png' not found on input line 392.
+
+
+! Package pdftex.def Error: File `sqsim.png' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.392 ...graphics[width=0.5\textwidth]{sqsim.png}}
+                                                  
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (9.0pt too wide) in paragraph at lines 391--393
+[]
+ []
+
+
+Overfull \hbox (9.0pt too wide) in paragraph at lines 391--393
+[] 
+ []
+
+
+Underfull \vbox (badness 1859) has occurred while \output is active []
+
+[9]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+! Undefined control sequence.
+l.397 \FloatBarrier
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[10] [11]
+Underfull \hbox (badness 4556) in paragraph at lines 400--401
+\OT1/ptm/m/n/12 dur-ing the du-ra-tion of the project.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 400--401
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 403--408
+\OT1/ptm/m/n/12 Start Up Equip-ment - C$15,000
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 403--408
+
+ []
+
+
+LaTeX Warning: Citation `graham_intelligent_2005' on page 12 undefined on input
+ line 409.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 409--410
+[]\OT1/ptm/m/n/12 The mar-ket-ing cost is typ-i-cally
+ []
+
+
+Underfull \hbox (badness 4316) in paragraph at lines 409--410
+\OT1/ptm/m/n/12 15% of the costs was used as a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 409--410
+\OT1/ptm/m/n/12 con-ser-va-tive av-er-age. Typ-i-cally, the
+ []
+
+
+Underfull \hbox (badness 1803) in paragraph at lines 409--410
+\OT1/ptm/m/n/12 fac-tored in the first year. Ac-cord-ing
+ []
+
+
+Underfull \hbox (badness 2452) in paragraph at lines 409--410
+\OT1/ptm/m/n/12 to Ben-jamin Gra-ham, au-thor of the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 409--410
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--412
+
+ []
+
+
+LaTeX Warning: Citation `_cabelas_????' on page 12 undefined on input line 413.
+
+
+
+LaTeX Warning: Citation `_usrp_????' on page 12 undefined on input line 413.
+
+
+LaTeX Warning: Citation `_sharp_????' on page 12 undefined on input line 413.
+
+
+LaTeX Warning: Citation `_arduino_????' on page 12 undefined on input line 413.
+
+
+
+Underfull \hbox (badness 2582) in paragraph at lines 413--414
+\OT1/ptm/m/n/12 many dif-fer-ent ap-pli-ca-tions, how-ever,
+ []
+
+
+Underfull \hbox (badness 1571) in paragraph at lines 413--414
+\OT1/ptm/m/n/12 quick-est and eas-i-est to en-ter and is
+ []
+
+
+Underfull \hbox (badness 2717) in paragraph at lines 413--414
+\OT1/ptm/m/n/12 from C$2,199.99 to C$2,599.97. [[]]
+ []
+
+
+Underfull \hbox (badness 4859) in paragraph at lines 413--414
+\OT1/ptm/m/n/12 radar must be priced com-pet-i-tively.
+ []
+
+
+Underfull \hbox (badness 2932) in paragraph at lines 413--414
+\OT1/ptm/m/n/12 The price for a Uni-ver-sal Soft-ware
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 413--414
+
+ []
+
+
+Underfull \hbox (badness 3386) in paragraph at lines 415--416
+\OT1/ptm/m/n/12 con-sumer a rea-son-able sav-ings over
+ []
+
+
+Underfull \hbox (badness 3503) in paragraph at lines 415--416
+\OT1/ptm/m/n/12 re-sult-ing in a price of C$1,869.99.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 415--416
+
+ []
+
+[12
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 417--421
+
+ []
+
+
+Underfull \hbox (badness 3118) in paragraph at lines 423--424
+\OT1/ptm/m/n/12 so-lu-tion choice than an-i-mal train-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--424
+\OT1/ptm/m/n/12 so-lu-tion of-fers enough op-tions for
+ []
+
+
+Underfull \hbox (badness 2042) in paragraph at lines 423--424
+\OT1/ptm/m/n/12 types of Radar so-lu-tion, a uni-ver-sal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 423--424
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[13]
+Overfull \hbox (194.55084pt too wide) in paragraph at lines 455--468
+[] 
+ []
+
+
+Overfull \hbox (111.85378pt too wide) in paragraph at lines 470--481
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 470--481
+\OT1/ptm/m/n/12 Currently sup-ported plat-form: et-tus
+ []
+
+[14
+
+]
+
+! LaTeX Error: File `simugen' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.487 ...degraphics[width=0.5\textwidth]{simugen}}
+                                                  
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.491 \FloatBarrier
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: File `sigadd' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.496 ...udegraphics[width=0.5\textwidth]{sigadd}}
+                                                  
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `sig1dot2add' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.502 ...aphics[width=0.5\textwidth]{sig1dot2add}}
+                                                  
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.506 \FloatBarrier
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 7151) in paragraph at lines 509--510
+[]\OT1/ptm/m/n/12 The spa-tial res-o-lu-tion de-ter-mines
+ []
+
+
+Underfull \hbox (badness 2005) in paragraph at lines 509--510
+\OT1/ptm/m/n/12 the min-i-mum amount of time de-lay
+ []
+
+
+Underfull \hbox (badness 1939) in paragraph at lines 509--510
+\OT1/ptm/m/n/12 band-width of im-pulse re-sponse from
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 509--510
+\OT1/ptm/m/n/12 the shorter the im-pulse re-sponse
+ []
+
+
+Underfull \hbox (badness 2547) in paragraph at lines 509--510
+\OT1/ptm/m/n/12 band-width. The ex-act re-la-tion-ship is
+ []
+
+
+Underfull \hbox (badness 2529) in paragraph at lines 509--510
+\OT1/ptm/m/n/12 dis-played in Fig-ure 22[]. Top fig-ures
+ []
+
+
+Underfull \hbox (badness 2368) in paragraph at lines 509--510
+\OT1/ptm/m/n/12 are dis-play-ing base-band chirp sig-nal
+ []
+
+
+Underfull \hbox (badness 4699) in paragraph at lines 509--510
+\OT1/ptm/m/n/12 matched fil-ter im-pulse re-sponses in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 509--510
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[15
+
+]
+
+! LaTeX Error: File `bwrelation1' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.512 ...aphics[width=0.5\textwidth]{bwrelation1}}
+                                                  
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `bwrelation2' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.513 ...aphics[width=0.5\textwidth]{bwrelation2}}
+                                                  
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 4132) in paragraph at lines 519--520
+\OT1/ptm/m/n/12 and re-sult in the im-pulse re-sponse
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
+
+ []
+
+
+! LaTeX Error: File `sig0dot5add' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.524 ...aphics[width=0.5\textwidth]{sig0dot5add}}
+                                                  
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `sig0dot1add' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.525 ...aphics[width=0.5\textwidth]{sig0dot1add}}
+                                                  
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Unknown float option `H'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.531 \begin{figure}[H]
+                       
+Option `H' ignored and `p' used.
+
+
+! LaTeX Error: File `simutxcom' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.535 }
+       
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `oscitxcom' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.535 }
+       
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 536--536
+[]\OT1/ptm/m/n/12 Fig. 24: |trans-mit-ted chirp sig-nal in
+ []
+
+[16]
+
+! LaTeX Error: Unknown float option `H'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.540 \begin{figure}[H]
+                       
+Option `H' ignored and `p' used.
+
+
+! LaTeX Error: File `rxrestore' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.541 ...graphics[width=0.5\textwidth]{rxrestore}}
+                                                  
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Unknown float option `H'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.547 \begin{figure}[H]
+                       
+Option `H' ignored and `p' used.
+
+
+! LaTeX Error: File `gnuscope' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.551 }
+       
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `ocilliscope' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.551 }
+       
+I could not locate the file with any of these extensions:
+.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 552--552
+[]\OT1/ptm/m/n/12 Fig. 26: |trans-mit-ted chirp sig-nal in
+ []
+
+(/Users/bowensong/Documents/GitHub/acecv/HTML/Nsig/FinalPaperEdition.bbl)
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[17] (/Users/bowensong/Documents/GitHub/acecv/HTML/Nsig/FinalPaperEdition.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3994 strings out of 494437
+ 66313 string characters out of 6166645
+ 134897 words of memory out of 5000000
+ 7245 multiletter control sequences out of 15000+600000
+ 30899 words of font info for 66 fonts, out of 8000000 for 9000
+ 319 hyphenation exceptions out of 8191
+ 42i,7n,40p,1377b,304s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2017basic/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/lo
+cal/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></us
+r/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><
+/usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pf
+b></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.
+pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+y10.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmsy8.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/urw/courier/ucr
+r8a.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/urw/times/utmb8a.p
+fb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></
+usr/local/texlive/2017basic/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on /Users/bowensong/Documents/GitHub/acecv/HTML/Nsig/FinalPaperE
+dition.pdf (21 pages, 155057 bytes).
+PDF statistics:
+ 113 PDF objects out of 1000 (max. 8388607)
+ 79 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

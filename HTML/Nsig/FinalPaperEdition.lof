@@ -1,0 +1,26 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces LFM Radar system flow graph\relax }}{3}
+\contentsline {figure}{\numberline {2}{\ignorespaces Tx signal pattern, rx signal with 0.01 s delay from transmission time stamp, and MF result\relax }}{4}
+\contentsline {figure}{\numberline {3}{\ignorespaces Matched filter result with peak detection\relax }}{5}
+\contentsline {figure}{\numberline {4}{\ignorespaces LFM chirp signal modified by TC-OLA\relax }}{5}
+\contentsline {figure}{\numberline {5}{\ignorespaces Radar system flow graph with DSP enhancement\relax }}{6}
+\contentsline {figure}{\numberline {6}{\ignorespaces N-Signal flow graph\relax }}{6}
+\contentsline {figure}{\numberline {7}{\ignorespaces LFM and square signals going through N-Signal scheme\relax }}{6}
+\contentsline {figure}{\numberline {8}{\ignorespaces Simulated delay using 1000 feet cable\relax }}{7}
+\contentsline {figure}{\numberline {9}{\ignorespaces Receiver matched signal (left) with 1 coax, (right) with 2 coax connected and shorter cable attenuated\relax }}{7}
+\contentsline {figure}{\numberline {10}{\ignorespaces Experimental Setup\relax }}{7}
+\contentsline {figure}{\numberline {11}{\ignorespaces general view of GNURadio transceiver block diagram\relax }}{8}
+\contentsline {figure}{\numberline {12}{\ignorespaces Nearby dome building range measured by Google Map (left) and by Radar (right)\relax }}{8}
+\contentsline {figure}{\numberline {13}{\ignorespaces Nearby smoke stack building range measured by Google Map (left) and by Radar (right)\relax }}{8}
+\contentsline {figure}{\numberline {14}{\ignorespaces Comparing traditional (blue) with improved result(orange)\relax }}{9}
+\contentsline {figure}{\numberline {15}{\ignorespaces N-signals experimental result from LFM BW of $2 MHz$ (left) and BW of $1 MHz$ (right)\relax }}{10}
+\contentsline {figure}{\numberline {16}{\ignorespaces N-signals tranceiving signals from LFM (left) and Frank P4 polyphase (right)\relax }}{11}
+\contentsline {figure}{\numberline {17}{\ignorespaces N-signals matched filter result from LFM (left) and Frank P4 polyphase (right)\relax }}{11}
+\contentsline {figure}{\numberline {18}{\ignorespaces Extracted square signal from n-signals scheme\relax }}{11}
+\contentsline {figure}{\numberline {19}{\ignorespaces general view of Simulink block diagram\relax }}{15}
+\contentsline {figure}{\numberline {20}{\ignorespaces reference, echo, and summation of the two signals\relax }}{15}
+\contentsline {figure}{\numberline {21}{\ignorespaces signals summation with $1.2us$ time delay between reference and echo signal and their matched filter response\relax }}{16}
+\contentsline {figure}{\numberline {22}{\ignorespaces Bandwidth of the LFM in relation with impulse response bandwidth\relax }}{16}
+\contentsline {figure}{\numberline {23}{\ignorespaces signals summation with $0.5us$ (left) and $0.1us$ (right) time delay between reference and echo signal and their matched filter response\relax }}{16}
+\contentsline {figure}{\numberline {24}{\ignorespaces transmitted chirp signal in Simulink scope (left) and oscilloscope (right)\relax }}{17}
+\contentsline {figure}{\numberline {25}{\ignorespaces Simulink scope displaying received signal\relax }}{17}
+\contentsline {figure}{\numberline {26}{\ignorespaces transmitted chirp signal in GNURadio scope (left) and oscilloscope (right)\relax }}{17}

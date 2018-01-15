@@ -1,0 +1,31 @@
+\contentsline {section}{\numberline {I}Summary}{3}
+\contentsline {section}{\numberline {II}Glossary}{4}
+\contentsline {section}{\numberline {III}Introduction}{1}
+\contentsline {section}{\numberline {IV}Problem Definition}{2}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {IV-A}}Project Scope}{2}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {IV-B}}Problem Approach}{2}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {IV-C}}Project Goal}{2}
+\contentsline {section}{\numberline {V}Radar Technology And Design Choices}{3}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {V-A}}LFM Radar implementing on SDR}{3}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {V-A}1}Matched Filter}{3}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {V-A}2}Moving Target Detection}{4}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {V-A}3}Constant False Alarm Rate}{4}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {V-B}}Time Compression Overlap Add - DSP Enhancement}{4}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {V-B}1}Time Compression}{5}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {V-B}2}Overlap Add}{5}
+\contentsline {subsubsection}{\numberline {\unhbox \voidb@x \hbox {V-B}3}Contribution to Project}{6}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {V-C}}N-Signals Enhancement}{6}
+\contentsline {section}{\numberline {VI}Implementation And Experiments}{7}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-A}}Hardware Experimental Setups}{7}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-B}}GNURadio Implementation}{7}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-C}}LFM Radar Experimental Results}{8}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-D}}TC-OLA Enhanced LFM Radar Experimental Results}{8}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VI-E}}N-Signal Enhanced Radar Experimental Results}{9}
+\contentsline {section}{\numberline {VII}Product Pricing Estimation}{12}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VII-A}}Yearly projection}{12}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {VII-B}}Marketing}{12}
+\contentsline {section}{\numberline {VIII}Conclusion And Recommendation for Future Work}{13}
+\contentsline {section}{Appendix\nobreakspace {}A: Product Specifications}{14}
+\contentsline {section}{Appendix\nobreakspace {}B: Implementation Attempt on Simulink}{15}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {B-A}}Time Delay And Matched Filter}{15}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {B-B}}Minimum Detectable Range}{16}
