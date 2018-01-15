@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.15)  13 JAN 2018 12:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.9.15)  14 JAN 2018 22:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**/Users/bowensong/Documents/GitHub/acecv/CV/CV-BowenSong.tex
-(/Users/bowensong/Documents/GitHub/acecv/CV/CV-BowenSong.tex
+**/Users/bowensong/Documents/GitHub/acecv/HTML/CV/CV-BowenSong.tex
+(/Users/bowensong/Documents/GitHub/acecv/HTML/CV/CV-BowenSong.tex
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 22 language(s) loaded.
-(/Users/bowensong/Documents/GitHub/acecv/CV/moderncv.cls
+(/Users/bowensong/Documents/GitHub/acecv/HTML/CV/moderncv.cls
 Document Class: moderncv 2013/02/09 v1.3.0 modern curriculum vitae and letter d
 ocument class
 (/usr/local/texlive/2017basic/texmf-dist/tex/latex/base/size11.clo
@@ -109,8 +109,8 @@ Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
 \f@ncyO@erf=\skip47
 \f@ncyO@olf=\skip48
 \f@ncyO@orf=\skip49
-) (/Users/bowensong/Documents/GitHub/acecv/CV/tweaklist.sty) (/usr/local/texliv
-e/2017basic/texmf-dist/tex/latex/tools/calc.sty
+) (/Users/bowensong/Documents/GitHub/acecv/HTML/CV/tweaklist.sty) (/usr/local/t
+exlive/2017basic/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count81
 \calc@Bcount=\count82
@@ -252,7 +252,7 @@ LaTeX Info: Redefining \lslig on input line 916.
 Package microtype Info: Loading configuration file microtype.cfg.
 (/usr/local/texlive/2017basic/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2016/05/14 v2.6a microtype main configuration file (RS)
-)) (/Users/bowensong/Documents/GitHub/acecv/CV/moderncvcompatibility.sty
+)) (/Users/bowensong/Documents/GitHub/acecv/HTML/CV/moderncvcompatibility.sty
 Package: moderncvcompatibility 2013/02/09 v1.3.0 modern curriculum vitae and le
 tter compatibility patches
 )
@@ -261,7 +261,7 @@ tter compatibility patches
 . 
 . Defining command \address with sig. 'mG{}G{}' on line 228.
 .................................................
-(/Users/bowensong/Documents/GitHub/acecv/CV/collection.sty
+(/Users/bowensong/Documents/GitHub/acecv/HTML/CV/collection.sty
 Package: collection 2013/03/28 v1.0.0 collections
 \c@collection@iterator=\count127
 )
@@ -289,7 +289,7 @@ Package: collection 2013/03/28 v1.0.0 collections
 \cvcolumnsautowidth=\skip62
 \cvcolumnautowidth=\skip63
 \bibindent=\skip64
-) (/Users/bowensong/Documents/GitHub/acecv/CV/moderncvstylebanking.sty
+) (/Users/bowensong/Documents/GitHub/acecv/HTML/CV/moderncvstylebanking.sty
 Package: moderncvstylebanking 2013/02/09 v1.3.0 modern curriculum vitae and let
 ter style scheme: banking
 (/usr/local/texlive/2017basic/texmf-dist/tex/latex/tex-gyre/tgpagella.sty
@@ -308,7 +308,7 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
-)))) (/Users/bowensong/Documents/GitHub/acecv/CV/moderncviconsmarvosym.sty
+)))) (/Users/bowensong/Documents/GitHub/acecv/HTML/CV/moderncviconsmarvosym.sty
 Package: moderncviconsmarvosym 2013/02/09 v1.3.0 modern curriculum vitae and le
 tter icons: marvosym
 )
@@ -778,7 +778,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 Package hyperref Info: Option `breaklinks' set `true' on input line 45.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 45.
-(/Users/bowensong/Documents/GitHub/acecv/CV/CV-BowenSong.aux)
+(/Users/bowensong/Documents/GitHub/acecv/HTML/CV/CV-BowenSong.aux)
 \openout1 = `CV-BowenSong.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
@@ -898,8 +898,8 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 45.
 LaTeX Info: Redefining \pageref on input line 45.
 LaTeX Info: Redefining \nameref on input line 45.
-(/Users/bowensong/Documents/GitHub/acecv/CV/CV-BowenSong.out) (/Users/bowensong
-/Documents/GitHub/acecv/CV/CV-BowenSong.out)
+(/Users/bowensong/Documents/GitHub/acecv/HTML/CV/CV-BowenSong.out) (/Users/bowe
+nsong/Documents/GitHub/acecv/HTML/CV/CV-BowenSong.out)
 \@outlinefile=\write3
 \openout3 = `CV-BowenSong.out'.
 
@@ -961,16 +961,9 @@ LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <10> not available
 
 {/usr/local/texlive/2017basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 276--276
-
- []
-
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 282.
-[3
-
-]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 282.
-(/Users/bowensong/Documents/GitHub/acecv/CV/CV-BowenSong.aux)
+(/Users/bowensong/Documents/GitHub/acecv/HTML/CV/CV-BowenSong.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 282.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 282.
 Package rerunfilecheck Info: File `CV-BowenSong.out' has not changed.
@@ -980,24 +973,24 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 19410 strings out of 494437
- 328129 string characters out of 6166645
+ 19409 strings out of 494437
+ 328248 string characters out of 6166645
  406617 words of memory out of 5000000
  22535 multiletter control sequences out of 15000+600000
  55245 words of font info for 56 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 45i,11n,45p,10407b,339s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 45i,11n,45p,10412b,334s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017basic/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/l
 ocal/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
 sr/local/texlive/2017basic/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/lo
 cal/texlive/2017basic/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local
 /texlive/2017basic/texmf-dist/fonts/type1/public/lm/lmsso10.pfb></usr/local/tex
 live/2017basic/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on /Users/bowensong/Documents/GitHub/acecv/CV/CV-BowenSong.pdf (
-3 pages, 114212 bytes).
+Output written on /Users/bowensong/Documents/GitHub/acecv/HTML/CV/CV-BowenSong.
+pdf (2 pages, 113612 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
- 85 compressed objects within 1 object stream
- 17 named destinations out of 1000 (max. 500000)
+ 91 PDF objects out of 1000 (max. 8388607)
+ 81 compressed objects within 1 object stream
+ 16 named destinations out of 1000 (max. 500000)
  17489 words of extra memory for PDF output out of 20736 (max. 10000000)
 
